@@ -33,7 +33,7 @@ public class ScientificCalculatorControllerIT {
 
     @Before
     public void setUp() throws Exception {
-        this.base = new URL("http://localhost:" + port + "/");
+        this.base = new URL("http://localhost:" + port + "/calculator/");
     }
 
     @Test
