@@ -19,7 +19,7 @@ Step 2:
  java -jar build/libs/interview_narendra_kumar-0.1.0.jar
 ```
 
-Note: please adjust the path separator on windows in **step 2**" if required.
+Note: please adjust the path separator on windows in **step 2** if required.
 
 Step 3:
 
