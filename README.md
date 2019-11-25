@@ -27,4 +27,4 @@ To check the api documentation and try those endpoints, open your browser and en
 
 **http://localhost:8080/swagger-ui.html**
 
-Thanks for reading. Your feedback will do a great justice to my time spent on this task, please do share.
+Thanks for reading.
